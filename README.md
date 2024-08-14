@@ -1,2 +1,2 @@
 # Digital_time
-Digital time using javacript
+Digital time using html, css and javacript
