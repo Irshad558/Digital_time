@@ -24,7 +24,6 @@ body{
     background-color: aliceblue;
     border-radius: 5px; */
     text-align: center;
-    position: relative;
 }
 .span1{
     font-size: 100px;
@@ -36,4 +35,4 @@ body{
 }
 .span3{
     font-size: 30px;
-}
+} 
