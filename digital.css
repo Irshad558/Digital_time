@@ -27,14 +27,13 @@ body{
 }
 .span1{
     font-size: 100px;
-    height:100px;
-    line-height: 110px;
+    padding: 10px;
 }
 .span2{
     font-size: 20px;
+    padding: 10px;
 }
 .span3{
     font-size: 30px;
-    line-height: 30px;
-    height: 35px;
+    padding: 10px;
 } 
