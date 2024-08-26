@@ -28,7 +28,8 @@ body{
 }
 .span1{
     font-size: 100px;
-    line-height: 100px;
+    height:100px;
+    line-height: 110px;
 }
 .span2{
     position: absolute;
@@ -38,4 +39,5 @@ body{
 .span3{
     font-size: 30px;
     line-height: 30px;
+    height: 35px;
 } 
