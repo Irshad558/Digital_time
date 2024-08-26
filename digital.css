@@ -24,7 +24,6 @@ body{
     background-color: aliceblue;
     border-radius: 5px; */
     text-align: center;
-    position: relative;
 }
 .span1{
     font-size: 100px;
@@ -32,8 +31,6 @@ body{
     line-height: 110px;
 }
 .span2{
-    position: absolute;
-    top: 15px;
     font-size: 20px;
 }
 .span3{
