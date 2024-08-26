@@ -27,6 +27,7 @@ body{
 }
 .span1{
     font-size: 100px;
+    line-height: 100px;
 }
 .span2{
     position: absolute;
@@ -35,4 +36,5 @@ body{
 }
 .span3{
     font-size: 30px;
+    line-height: 30px;
 } 
